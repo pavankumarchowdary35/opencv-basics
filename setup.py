@@ -4,8 +4,8 @@ with open("README.md", "r", encoding="utf-8") as f:
     long_description = f.read()
 
 ## edit below variables as per your requirements -
-REPO_NAME = "opencv-basics"
-AUTHOR_USER_NAME = "c17hawke"
+REPO_NAME = "cv_basics"
+AUTHOR_USER_NAME = "pavankumarchowdary35"
 SRC_REPO = "src"
 LIST_OF_REQUIREMENTS = []
 
